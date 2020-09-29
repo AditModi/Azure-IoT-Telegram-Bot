@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo -en "
 *** First configuration - Azure IoT Telegram Bot ***
 
