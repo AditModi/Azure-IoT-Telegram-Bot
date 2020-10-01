@@ -2,7 +2,6 @@ require('dotenv').config({path: '.env'})
 
 var config = {};
 
-
 config.flask_client = {};
 config.channel = {};
 config.commands = {};
