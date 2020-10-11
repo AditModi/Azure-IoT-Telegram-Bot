@@ -6,6 +6,7 @@ Here you can set the Telegram Bot Token once you have created it with BotFather.
 
 "
 
+
 while [ -z $bot_id ]
 do
     echo -en "Telegram Bot Token: "
