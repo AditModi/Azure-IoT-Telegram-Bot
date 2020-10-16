@@ -3,7 +3,6 @@ echo -en "
 *** First configuration - Azure IoT Telegram Bot ***
 
 Here you can set the Telegram Bot Token once you have created it with BotFather.
-
 "
 
 
